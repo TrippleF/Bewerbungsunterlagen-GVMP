@@ -1,0 +1,6 @@
+[0118/213335.443:INFO:CONSOLE(277)] "%c%s", source: /_/mss/boq-identity/_/js/k=boq-identity.AccountHealthInterstitialsUi.de.yZQh5Y2Sx7c.O/am=h2QABA/rt=j/d=1/excm=p2gbrowserview,_b,_tp/ed=1/dg=0/rs=AOaEmlEWWLJUKEBNjz3tDgLX6jsWfso4ag/m=_b,_tp (277)
+[0118/213335.444:INFO:CONSOLE(277)] "%c%s", source: /_/mss/boq-identity/_/js/k=boq-identity.AccountHealthInterstitialsUi.de.yZQh5Y2Sx7c.O/am=h2QABA/rt=j/d=1/excm=p2gbrowserview,_b,_tp/ed=1/dg=0/rs=AOaEmlEWWLJUKEBNjz3tDgLX6jsWfso4ag/m=_b,_tp (277)
+[0118/213342.612:WARNING:obfuscated_file_util.cc(1211)] Failed to get origin+type directory: filesystem:https://docs.google.com/persistent/docs\fonts\TK3iWkUHHAIjg75GGw.woff2 error:-4
+[0118/213342.613:WARNING:obfuscated_file_util.cc(1211)] Failed to get origin+type directory: filesystem:https://docs.google.com/persistent/docs\fonts\TK3hWkUHHAIjg75-ohojuA.woff2 error:-4
+[0118/213342.689:WARNING:url_request_job_manager.cc(90)] Failed to map: chrome-extension://invalid/
+[0118/213349.129:INFO:CONSOLE(2677)] "chrome.loadTimes() is deprecated, instead use standardized API: nextHopProtocol in Navigation Timing 2. https://www.chromestatus.com/features/5637885046816768.", source: https://docs.google.com/static/spreadsheets2/client/js/3921768702-waffle_js_prod_core__de.js (2677)
