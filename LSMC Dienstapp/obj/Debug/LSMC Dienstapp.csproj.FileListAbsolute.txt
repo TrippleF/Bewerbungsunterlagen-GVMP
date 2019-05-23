@@ -1,0 +1,139 @@
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\LSMC Dienstapp.exe.config
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\LSMC Dienstapp.exe
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\LSMC Dienstapp.pdb
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.aktivieren.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Ausbildungsabteilung.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Ausbildung_Bemerkung_eintragen.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Ausbildung_eintragen.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Ausbildung_Prüfungsverwaltung.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Ausbildung_SchulungEintragen.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Ausbildung_User_Manage.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.einweisung_checklist.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.termin_manage.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.termin_vorschlagen.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.BedinungenRankup.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Custominputbox.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.CustomMessageBox.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Form1.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.mdw.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.mdwListe.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.notification.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.beladung_eintragen.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Bemerkung_eintragen.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Bewerbung.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.fahrzeugKontrolle.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Fahrzeugverwaltung.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.FallbeispielVerwalten.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Fuhrpark.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Personalabteilung.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.sanktion.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.strafkatalog.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.strafkatalog_add.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.strafkatalog_bearbeiten_loeschen.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Termine_manage.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Termin_eintragen.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.theorieEnweisung.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.User_Manage.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Properties.Resources.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.prüfungsanmeldung.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.prüfungsstatus.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Uninvite.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Updownrank.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.resetAccount.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.User_add.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Archiv.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Verwaltungsuebersicht.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Verwaltung_Manage.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.csproj.GenerateResource.cache
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.csproj.CoreCompileInputs.cache
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.exe
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.pdb
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.csprojAssemblyReference.cache
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\LSMC Dienstapp.exe.manifest
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\LSMC Dienstapp.application
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\Google.Api.Gax.pdb
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\Google.Api.Gax.xml
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\Google.Apis.pdb
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\Google.Apis.xml
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\Google.Apis.Auth.xml
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\Google.Apis.Core.pdb
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\Google.Apis.Core.xml
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\bin\Debug\System.Interactive.Async.xml
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Dienstblatt.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.modt.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Schwarzes_Brett.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Urlaub.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Urlaubsliste.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Verwaltung.resources
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.TrustInfo.xml
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.exe.manifest
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.application
+C:\Users\mfran\source\repos\lsmc-dienstapp\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.csproj.CopyComplete
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\bin\Debug\LSMC Dienstapp.exe.config
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\bin\Debug\LSMC Dienstapp.exe.manifest
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\bin\Debug\LSMC Dienstapp.application
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\bin\Debug\LSMC Dienstapp.exe
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\bin\Debug\LSMC Dienstapp.pdb
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.csprojAssemblyReference.cache
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.aktivieren.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Ausbildungsabteilung.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Ausbildung_Bemerkung_eintragen.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Ausbildung_eintragen.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Ausbildung_Prüfungsverwaltung.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Ausbildung_SchulungEintragen.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Ausbildung_User_Manage.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.einweisung_checklist.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.termin_manage.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.termin_vorschlagen.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.BedinungenRankup.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Custominputbox.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.CustomMessageBox.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Dienstblatt.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Form1.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Changelog.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.mdw.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.mdwListe.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.modt.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.notification.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.beladung_eintragen.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Bemerkung_eintragen.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Bewerbung.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.fahrzeugKontrolle.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Fahrzeugverwaltung.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.FallbeispielVerwalten.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Fuhrpark.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Personalabteilung.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.sanktion.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.strafkatalog.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.strafkatalog_add.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.strafkatalog_bearbeiten_loeschen.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Termine_manage.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Termin_eintragen.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.theorieEnweisung.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.User_Manage.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Properties.Resources.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.prüfungsanmeldung.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.prüfungsstatus.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Schwarzes_Brett.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Uninvite.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Updownrank.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.resetAccount.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Urlaub.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Urlaubsliste.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.User_add.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Verwaltung.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Archiv.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Verwaltungsuebersicht.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC_Dienstapp.Verwaltung_Manage.resources
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.csproj.GenerateResource.cache
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.csproj.CoreCompileInputs.cache
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.TrustInfo.xml
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.exe.manifest
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.application
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.exe
+C:\Users\mfran\source\repos\bewerbungsmaterial\LSMC Dienstapp\obj\Debug\LSMC Dienstapp.pdb
